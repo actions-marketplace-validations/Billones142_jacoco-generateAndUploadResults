@@ -1,4 +1,5 @@
 name: jacoco-generateAndUploadResults
+description: generates the files for the the jacoco test and uploads them to a branch
 
 on:
   push:
