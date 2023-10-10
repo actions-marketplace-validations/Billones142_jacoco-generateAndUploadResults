@@ -79,4 +79,5 @@ jobs:
           
           git commit -m "Add generated files"
           git push --force origin HEAD:reports
-version: 1
+
+version: 1.0.1
